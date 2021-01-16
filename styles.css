@@ -1,0 +1,134 @@
+html {
+  height: 100vh;
+}
+
+body {
+  font-family: Roboto, Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  color: #202124 !important;
+  background-color: #ede7f6;
+}
+
+label {
+  font-family: Roboto, Arial, sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.1px !important;
+  line-height: 24px !important;
+  color: #202124 !important;
+  font-weight: 400 !important;
+  width: 100% !important;
+  word-break: break-word !important;
+}
+
+nav {
+  background-color: #1a237e;
+  margin: -9px -8px -9px -8px;
+  padding: 5px 0px 5px 0px;
+  width: 100%
+  height: 60px;
+  border-bottom: 2px solid #cccccc;
+}
+
+nav ul a {
+  font-size: 1rem;
+  color: #fff;
+  display: block;
+  padding: 0 40px;
+  text-align: right;
+  cursor: pointer;
+  background-color: #1a237e;
+  text-decoration: none;
+}
+
+nav ul li {
+  margin-top: -42px;
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+header .header-main .header {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin-left: 2%;
+  margin-top: 9px;
+}
+
+main  {
+  text-align: center;
+}
+
+main .main-content {
+  padding: 55px 55px 55px 55px;
+}
+
+.login-head {
+  font-size: 2.3rem;
+  font-weight: 430;
+  color: #1a237e;
+}
+
+form {
+  border: 2px solid #dddddd;
+  margin-top: -50px;
+  padding: 1050px;
+  background-color: #ffffff;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.login-body {
+  display: flex;
+  height: calc(100% - 64px);
+  justify-content: center;
+  align-items: center;
+}
+
+.Login-Button {
+  background-color: #1a237e; /* blue */
+  border: none;
+  color: white;
+  padding: 13px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 3px;
+}
+
+.Login-Button:hover {
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
